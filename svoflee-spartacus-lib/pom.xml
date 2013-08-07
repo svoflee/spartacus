@@ -34,8 +34,11 @@
 		<module>svoflee-spartacus-lib-schedule</module>
 		<module>svoflee-spartacus-lib-mq</module>
 		<module>svoflee-spartacus-lib-webservice</module>
-<!-- 		<module>svoflee-spartacus-lib-rop</module>
- -->	</modules>
+		<module>svoflee-spartacus-lib-rop</module>
+		<module>svoflee-spartacus-lib-api-common</module>
+
+
+	</modules>
 
 	<dependencies>
 		<!--########## com.svoflee.spartacus.core deps begin -->
