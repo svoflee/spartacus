@@ -2,3 +2,5 @@ spartacus
 =========
 
 Hello Spartacus!
+
+[[Components]]
