@@ -6,8 +6,8 @@ TODO:
 
 ##2.构成
 
-*[平台组件](https://github.com/svoflee/spartacus/wiki/Components)
-*TODO
+* [平台组件](https://github.com/svoflee/spartacus/wiki/Components)
+* TODO
 
 ===
 ##3.规范
