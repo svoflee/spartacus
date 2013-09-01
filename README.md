@@ -19,7 +19,7 @@ TODO:
 * 微   信:   @svoflee
 * qq 群:  243300640
 
-* [FAQ]
+* [FAQ] (https://github.com/svoflee/spartacus/wiki/FAQ)
 
 4.感谢
 
