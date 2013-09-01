@@ -1,19 +1,17 @@
-##1.背景和目标
+###1.背景和目标
 
-TODO:
+TODO
 
+###2.功能与构成
 
-##2.功能与构成
-
-* [平台组件](https://github.com/svoflee/spartacus/wiki/Components)
+* [平台组件](https://github.com/svoflee/spartacus/wiki/spartacus-lib)
 * TODO
 
-##3.规范与实践
+###3.规范与实践
 
-TODO:
+TODO
 
-
-##4.沟通交流
+###4.沟通交流
 
 * Weibo: [svoflee](http://www.weibo.com/svoflee)
 * 微   信:   @svoflee
@@ -21,9 +19,9 @@ TODO:
 
 * [FAQ] (https://github.com/svoflee/spartacus/wiki/FAQ)
 
-4.感谢
+###4.感谢
 
-TODO:
+TODO
 
 
 
