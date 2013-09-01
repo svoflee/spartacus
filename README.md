@@ -22,9 +22,9 @@ TODO:
 ---
 ##4.沟通交流
 
-*Weibo: [svoflee](http://www.weibo.com/svoflee)
-*微信:   svoflee
-*qq群:   243300640
+* Weibo: [svoflee](http://www.weibo.com/svoflee)
+* 微信:   svoflee
+* qq群:   243300640
 
 
 ---
