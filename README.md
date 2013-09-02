@@ -14,7 +14,7 @@ TODO
 ###4.沟通交流
 
 * Weibo: [svoflee](http://www.weibo.com/svoflee)
-* 微   信:   @svoflee
+* 微信:   svoflee
 * qq 群:  243300640
 
 * [FAQ] (https://github.com/svoflee/spartacus/wiki/FAQ)
